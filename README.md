@@ -18,7 +18,7 @@
 ![alt text](https://github.com/sharvik22/8-03-hw/blob/main/images/1-2.png)
 ![alt text](https://github.com/sharvik22/8-03-hw/blob/main/images/1-4.png)
 ![alt text](https://github.com/sharvik22/8-03-hw/blob/main/images/1-5.png)
-
+![alt text](https://github.com/sharvik22/8-03-hw/blob/main/images/1-7.png)
 ### Задание 2
 
 **Что нужно сделать:**
