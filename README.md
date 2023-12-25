@@ -46,6 +46,10 @@
 
 ---
 ### Решение 3
+![alt text](https://github.com/sharvik22/8-03-hw/blob/main/images/3-1.png)
+![alt text](https://github.com/sharvik22/8-03-hw/blob/main/images/3-2.png)
+![alt text](https://github.com/sharvik22/8-03-hw/blob/main/images/3-3.png)
+![alt text](https://github.com/sharvik22/8-03-hw/blob/main/images/3-4.png)
 
 
 ## Дополнительные задания* (со звёздочкой)
