@@ -30,7 +30,8 @@
 
 ---
 ### Решение 2
-
+![alt text](https://github.com/sharvik22/8-03-hw/blob/main/images/2-1.png)
+![alt text](https://github.com/sharvik22/8-03-hw/blob/main/images/2-2.png)
 
 ### Задание 3
 
