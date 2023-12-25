@@ -13,7 +13,11 @@
 
 ---
 ### Решение 1
+https://github.com/sharvik22/8-03-hw/tree/main/images
 
+![alt text](https://github.com/sharvik22/8-03-hw/tree/main/images/1-1.png)
+![alt text](https://github.com/sharvik22/8-03-hw/tree/main/images/1-2.png)
+![alt text](https://github.com/sharvik22/8-03-hw/tree/main/images/1-3.png)
 
 ### Задание 2
 
